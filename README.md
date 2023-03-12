@@ -64,8 +64,12 @@ A couple of customers churned because they got better devices from competitors ,
 Customers who stayed generated the most revenue , they subscribed the most for phone service and internet service, they pay the most for unlimited data , average extra data and average long distance etc.. Customers who stayed are the high value customers. However, working toward decreasing the churn rate would help the company as the Customers who churned are also high value customers.
 
 ## Recommendation.
-In order to decrease churn rate, key drivers for churn would be high monthly payments and improving customer support. 17% of customers leave due to Competitors making better offers. There should be more of an effort to make monthly payments reasonable and using offers is one effective way to lower cost and convincing customers to stay. The 3rd highest reason customers stated for leaving was the Attitude of the support person (12%), only outmatched by competitor products and prices. The customer support should be extremely high to keep the customers happy. No customer will be loyal to a company who do not provide great customer service. Addressing the customer support team and the customer support process will allow help secure customer loyalty from the inside out.
+In order to decrease churn rate, key drivers for churn would be high monthly payments and improving customer support. 17% of customers leave due to Competitors making better offers. There should be more of an effort to make monthly payments reasonable and using offers is one effective way to lower cost and convincing customers to stay. 
+
+The 3rd highest reason customers stated for leaving was the Attitude of the support person (12%), only outmatched by competitor products and prices. The customer support should be extremely high to keep the customers happy. No customer will be loyal to a company who do not provide great customer service. Addressing the customer support team and the customer support process will allow help secure customer loyalty from the inside out.
+
 Additionally, company should address the month-month contrast, It is most likely people leave when they sigh for the month-month contrast. They can work on improving the offer of one and two year contract to make them better deals for the customers. It is advisable to cancel month-month contract, change It to a 3 month or 6 month contract.
+
 Overall, Telecom should look to do what is right for their customers. Lowering prices and providing offers, especially for your tenured customers, would go along way. It would be best to address some in-house processes like customer support and contract options to increase customer loyalty all around.
 
 
