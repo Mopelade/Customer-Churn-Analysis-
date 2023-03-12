@@ -10,7 +10,7 @@ For this project, I took the role of BI analyst to solve a telecommunication bus
 
 ## Business Problem
 
-###In this Project, I am working with the management of Maven Telecommunications Company using PowerBi to provide insight on:
+### In this Project, I am working with the management of Maven Telecommunications Company using PowerBi to provide insight on:
 
 1. How many customers joined the company during the last quarter? How many customers joined?
 
